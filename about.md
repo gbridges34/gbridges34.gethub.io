@@ -7,8 +7,9 @@ permalink: /about/
 Some information about you!
 
 ### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+!(C:\Users\19199\Documents\R\george_st502_R_Project2)
+Feel free to check out my LinkedIn profile, I have a lot of connections!
+*<https://www.linkedin.com/in/incrementalquotacarrier/>
 
 ### Contact me
 
