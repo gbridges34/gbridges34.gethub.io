@@ -9,6 +9,7 @@ My name is George Bridges. I am from Greensboro and currently live in Durham (NC
 
 
 ## More Information
+
 ![picture](\Users\19199\Desktop\ProfileForBlog.jpg)  
 
 Feel free to check out my LinkedIn profile, I have a lot of connections:
