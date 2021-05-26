@@ -10,7 +10,7 @@ My name is George Bridges. I am from Greensboro and currently live in Durham (NC
 
 ## More Information
 
-![test]("images/ProfileForBlog.jpg")
+![]("images/ProfileForBlog.jpg")
 
 Feel free to check out my LinkedIn profile, I have a lot of connections:
 <https://www.linkedin.com/in/incrementalquotacarrier/>
