@@ -9,4 +9,5 @@ I like the description of data scientists that is offered in the assigned articl
 
 title: Blog Post # 2 (R versus other programming languages)!
 
+I may have nearly the least programming experience of anyone taking this course because I lobbied to take it before taking the prerequisite course or courses. I simply found that the classes I had taken in the program so far utilized R so much that I needed a solid foundation in it.
 
